@@ -1,0 +1,18 @@
+{
+  "id": "Re-cal",
+  "title": "Re-cal - a calendar that actually works",
+  "description": "A simple module created for Dnd 5e as a way to learn FoundrtyVTT module creation, and because simple calendar wasn't working for me",
+  "authors": [
+    {
+      "name": "Eric Sapsford"
+    }
+  ],
+  "version": "0.1",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "esmodules": [
+    "scripts/hellworld.js"
+  ]
+}
